@@ -1,0 +1,6 @@
+/tmp/
+tmp/
+tmp.log
+token*.txt
+.idea
+__pycache__
